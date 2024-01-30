@@ -1,4 +1,3 @@
-# test_repo
+Odin project!
 
-hi hello and thank youuuuuuuu
-Test repo
+Nothing fancy, just simple recipe website to get familiar with HTML!
